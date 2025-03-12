@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/iamdmix/leetcode-progress/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/iamdmix/leetcode-progress/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/iamdmix/leetcode-progress/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/iamdmix/leetcode-progress/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/iamdmix/leetcode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamdmix/leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/iamdmix/leetcode-progress/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/iamdmix/leetcode-progress/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
