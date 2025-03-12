@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/iamdmix/leetcode-progress/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamdmix/leetcode-progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamdmix/leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/iamdmix/leetcode-progress/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/iamdmix/leetcode-progress/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/iamdmix/leetcode-progress/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/iamdmix/leetcode-progress/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/iamdmix/leetcode-progress/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamdmix/leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/iamdmix/leetcode-progress/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
