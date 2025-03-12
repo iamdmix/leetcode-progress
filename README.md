@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/iamdmix/leetcode-progress/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/iamdmix/leetcode-progress/tree/master/0948-sort-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/iamdmix/leetcode-progress/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/iamdmix/leetcode-progress/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamdmix/leetcode-progress/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/iamdmix/leetcode-progress/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamdmix/leetcode-progress/tree/master/3227-find-missing-and-repeated-values) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/iamdmix/leetcode-progress/tree/master/0189-rotate-array) |
 | [0861-flipping-an-image](https://github.com/iamdmix/leetcode-progress/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/iamdmix/leetcode-progress/tree/master/0941-sort-array-by-parity) |
+| [2551-apply-operations-to-an-array](https://github.com/iamdmix/leetcode-progress/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/iamdmix/leetcode-progress/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/iamdmix/leetcode-progress/tree/master/0861-flipping-an-image) |
+| [2551-apply-operations-to-an-array](https://github.com/iamdmix/leetcode-progress/tree/master/2551-apply-operations-to-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
