@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iamdmix/leetcode-progress/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/iamdmix/leetcode-progress/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/iamdmix/leetcode-progress/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/iamdmix/leetcode-progress/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
