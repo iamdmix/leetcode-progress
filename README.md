@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/iamdmix/leetcode-progress/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/iamdmix/leetcode-progress/tree/master/0948-sort-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/iamdmix/leetcode-progress/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1677-matrix-diagonal-sum](https://github.com/iamdmix/leetcode-progress/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/iamdmix/leetcode-progress/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/iamdmix/leetcode-progress/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/iamdmix/leetcode-progress/tree/master/2048-build-array-from-permutation) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/iamdmix/leetcode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/iamdmix/leetcode-progress/tree/master/0861-flipping-an-image) |
+| [1677-matrix-diagonal-sum](https://github.com/iamdmix/leetcode-progress/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/iamdmix/leetcode-progress/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamdmix/leetcode-progress/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
