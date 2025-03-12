@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamdmix/leetcode-progress/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/iamdmix/leetcode-progress/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/iamdmix/leetcode-progress/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2610-closest-prime-numbers-in-range](https://github.com/iamdmix/leetcode-progress/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/iamdmix/leetcode-progress/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamdmix/leetcode-progress/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/iamdmix/leetcode-progress/tree/master/3379-score-of-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/iamdmix/leetcode-progress/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
