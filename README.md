@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/iamdmix/leetcode-progress/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/iamdmix/leetcode-progress/tree/master/0948-sort-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/iamdmix/leetcode-progress/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2048-build-array-from-permutation](https://github.com/iamdmix/leetcode-progress/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/iamdmix/leetcode-progress/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamdmix/leetcode-progress/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/iamdmix/leetcode-progress/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/iamdmix/leetcode-progress/tree/master/0861-flipping-an-image) |
+| [2048-build-array-from-permutation](https://github.com/iamdmix/leetcode-progress/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/iamdmix/leetcode-progress/tree/master/2551-apply-operations-to-an-array) |
 ## Heap (Priority Queue)
 |  |
