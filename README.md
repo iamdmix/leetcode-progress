@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/iamdmix/leetcode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/iamdmix/leetcode-progress/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamdmix/leetcode-progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamdmix/leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/iamdmix/leetcode-progress/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/iamdmix/leetcode-progress/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/iamdmix/leetcode-progress/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamdmix/leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/iamdmix/leetcode-progress/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamdmix/leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
