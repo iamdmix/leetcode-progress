@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/iamdmix/leetcode-progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/iamdmix/leetcode-progress/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/iamdmix/leetcode-progress/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/iamdmix/leetcode-progress/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/iamdmix/leetcode-progress/tree/master/0074-search-a-2d-matrix) |
+| [0861-flipping-an-image](https://github.com/iamdmix/leetcode-progress/tree/master/0861-flipping-an-image) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/iamdmix/leetcode-progress/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamdmix/leetcode-progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iamdmix/leetcode-progress/tree/master/0189-rotate-array) |
+| [0861-flipping-an-image](https://github.com/iamdmix/leetcode-progress/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/iamdmix/leetcode-progress/tree/master/0268-missing-number) |
+| [0861-flipping-an-image](https://github.com/iamdmix/leetcode-progress/tree/master/0861-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
@@ -92,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/iamdmix/leetcode-progress/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/iamdmix/leetcode-progress/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
