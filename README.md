@@ -149,10 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/iamdmix/leetcode-progress/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/iamdmix/leetcode-progress/tree/master/3483-alternating-groups-ii) |
 ## String
 |  |
 | ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/iamdmix/leetcode-progress/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3379-score-of-a-string](https://github.com/iamdmix/leetcode-progress/tree/master/3379-score-of-a-string) |
 ## Number Theory
 |  |
