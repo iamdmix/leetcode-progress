@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/iamdmix/leetcode-progress/tree/master/0948-sort-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/iamdmix/leetcode-progress/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamdmix/leetcode-progress/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/iamdmix/leetcode-progress/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/iamdmix/leetcode-progress/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iamdmix/leetcode-progress/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/iamdmix/leetcode-progress/tree/master/0268-missing-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/iamdmix/leetcode-progress/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamdmix/leetcode-progress/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/iamdmix/leetcode-progress/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/iamdmix/leetcode-progress/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3227-find-missing-and-repeated-values](https://github.com/iamdmix/leetcode-progress/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/iamdmix/leetcode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/iamdmix/leetcode-progress/tree/master/0861-flipping-an-image) |
+| [3227-find-missing-and-repeated-values](https://github.com/iamdmix/leetcode-progress/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
