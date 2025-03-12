@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamdmix/leetcode-progress/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/iamdmix/leetcode-progress/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamdmix/leetcode-progress/tree/master/3227-find-missing-and-repeated-values) |
+| [3334-apple-redistribution-into-boxes](https://github.com/iamdmix/leetcode-progress/tree/master/3334-apple-redistribution-into-boxes) |
 | [3483-alternating-groups-ii](https://github.com/iamdmix/leetcode-progress/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/iamdmix/leetcode-progress/tree/master/0055-jump-game) |
+| [3334-apple-redistribution-into-boxes](https://github.com/iamdmix/leetcode-progress/tree/master/3334-apple-redistribution-into-boxes) |
 ## Matrix
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamdmix/leetcode-progress/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/iamdmix/leetcode-progress/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/iamdmix/leetcode-progress/tree/master/0948-sort-an-array) |
+| [3334-apple-redistribution-into-boxes](https://github.com/iamdmix/leetcode-progress/tree/master/3334-apple-redistribution-into-boxes) |
 ## Prefix Sum
 |  |
 | ------- |
