@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/iamdmix/leetcode-progress/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/iamdmix/leetcode-progress/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/iamdmix/leetcode-progress/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/iamdmix/leetcode-progress/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/iamdmix/leetcode-progress/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iamdmix/leetcode-progress/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamdmix/leetcode-progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/iamdmix/leetcode-progress/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/iamdmix/leetcode-progress/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/iamdmix/leetcode-progress/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/iamdmix/leetcode-progress/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
