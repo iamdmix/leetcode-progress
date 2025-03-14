@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/iamdmix/leetcode-progress/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/iamdmix/leetcode-progress/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/iamdmix/leetcode-progress/tree/master/0948-sort-an-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/iamdmix/leetcode-progress/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/iamdmix/leetcode-progress/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/iamdmix/leetcode-progress/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/iamdmix/leetcode-progress/tree/master/1635-number-of-good-pairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/iamdmix/leetcode-progress/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/iamdmix/leetcode-progress/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/iamdmix/leetcode-progress/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/iamdmix/leetcode-progress/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamdmix/leetcode-progress/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
